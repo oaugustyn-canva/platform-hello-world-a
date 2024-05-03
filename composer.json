@@ -1,0 +1,17 @@
+{
+    "name": "affinity/hello-world",
+    "description": "A simple greeter.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Affinity\\HelloWorld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oskar Augustyn",
+            "email": "oaugustyn@serif.com"
+        }
+    ],
+    "require": {}
+}
